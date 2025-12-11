@@ -1,2 +1,0 @@
-# cloudresources
-Cloud Resrouces
